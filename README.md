@@ -8,5 +8,9 @@ The main operating interface is as follows
 
 # how to use
 ```bash
+pip install -r requirements.txt
 python main.py
+```
 
+# quote
+[10_light_weight_face_recogniiton](https://github.com/EllisHui/10_light_weight_face_recogniiton/tree/main)
